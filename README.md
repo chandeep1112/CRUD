@@ -1,5 +1,5 @@
-# CRUD_Application_Node
-In this project, we  create node CRUD application with express and mongodb.
+# User Management Project
+
 
 #### To Run this project Clone it and install modules using
 ```
